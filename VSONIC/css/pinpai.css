@@ -1,0 +1,23 @@
+/* 
+* @Author: Marte
+* @Date:   2016-10-08 11:24:35
+* @Last Modified by:   Marte
+* @Last Modified time: 2016-10-08 15:12:08
+*/
+.pinpai{
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+.pinpai-neirong{
+    width: 1000px;
+    margin:0 auto;
+    position:relative;
+    height: 1000px;
+}
+.pingpai-daohang{
+    width: 300px;height: 300px;
+    position:fixed;
+    top:50%;
+    left:5%;
+}

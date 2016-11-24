@@ -1,0 +1,67 @@
+/* 
+* @Author: Marte
+* @Date:   2016-10-08 20:14:38
+* @Last Modified by:   Marte
+* @Last Modified time: 2016-10-12 10:30:13
+*/
+.goumai{
+    width: 100%;
+    height: 360px;
+    background: #181818;
+}
+.goumai-a{
+    width: 1800px;
+    height: 360px;
+    margin: 0 auto;
+}
+.goumai-p{
+    width: 1024px;
+    margin:0 auto;
+    height: 150px;
+    border-bottom:1px solid #ccc;
+    line-height: 150px;
+}
+.map-big{
+    width: 1024px;
+    height: 650px;
+    margin:0 auto;
+    position:relative;
+    padding-left:10px;
+    font-size: 16px;
+    line-height: 35px;
+}
+.didian{
+    width: 260px;
+    height: 516px;
+    padding:16px;
+    position:absolute;
+    left:1%;
+    top:10%;
+    border:1px solid #ccc;
+    overflow-y: scroll;
+}
+.ditu{
+
+    position:absolute;
+    top:10%;
+    left:30%;
+}
+.didian-a{
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.didian-b{
+    padding:5px ;
+    border-bottom: 1px solid #ccc;
+}
+.goumai-vs{
+    width: 1024px;
+    height: 80px;
+    margin:0 auto;
+    padding:10px 20px 20px 20px;
+}
+.goumai-vs p{
+    font-size:18px;
+    line-height: 30px;
+    text-indent:2em;
+}

@@ -1,0 +1,72 @@
+/* 
+* @Author: Marte
+* @Date:   2016-10-08 15:46:11
+* @Last Modified by:   Marte
+* @Last Modified time: 2016-10-12 11:44:20
+*/
+.chanping-big{
+    width: 1024px;
+    height: 1250px;
+    margin: 0 auto;
+    position: relative;
+}
+.chanping-big div{
+    margin-top:;
+}
+.chanping-big-a{
+    width: 100px;
+    height: 110px;
+    border-right:2px solid orange;
+    position:fixed;
+    top:500px;
+    left:19%;
+}
+.chanping-big-a ul{
+    /*float: right;*/
+    text-align: center;
+    font:16px bold "微软雅黑";
+
+
+    line-height: 40px;
+}
+.chanping-big-a ul li{
+    font-size: 18px;
+    font-weight:bold;
+    line-height: 40px;
+}
+.chanping-big-b{
+    width: 800px;
+    height: 1250px;
+    /*border:1px solid;*/
+    position:absolute;
+    left:20%;
+}
+.shuoming-a{
+	width: 670px;
+	height: 450px;
+	/*border: 1px solid #ccc;*/
+}
+.shuoming-a ul li{
+	height: 60px;
+	border-bottom: 1px solid #ccc;
+	line-height: 60px;
+}
+#fkb{
+	position: relative;
+	
+}
+#fkb .pingpai-p{
+	width: 365px;
+	height: 250px;
+	position: absolute;
+	top:10%;
+	left: 5%;
+	color: whitesmoke;
+	text-indent: 2em;
+}
+.kongge{
+	height: 50px;
+	width: 100px;
+	
+	
+}
